@@ -1,0 +1,3 @@
+# Things that don't need to be checked in.
+*.dll
+*.exe
